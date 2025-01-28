@@ -1,11 +1,8 @@
 # MultiplayerGame
-Here’s a suggested README file for your GitHub repository:
 
----
+# Multiplayer Gaming System 🎮🌐
 
-# Multiplayer VR Gaming System 🎮🌐
-
-This repository contains the **Multiplayer VR Gaming System** project, built using **Unity**, **Photon PUN**, and **Unity Netcode Framework**. This system allows players to immerse themselves in a shared virtual reality environment, interact in real-time, and enjoy a seamless multiplayer gaming experience.
+This repository contains the **Multiplayer Gaming System** project, built using **Unity**, **Photon PUN**, and **Unity Netcode Framework**. This system allows players to immerse themselves in a shared virtual reality environment, interact in real-time, and enjoy a seamless multiplayer gaming experience.
 
 ## Features ✨
 
@@ -28,8 +25,8 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/multiplayer-vr-gaming-system.git
-   cd multiplayer-vr-gaming-system
+   git clone https://github.com/Niregithub/MultiplayerGame.git
+   cd MultiplayerGame
    ```
 
 2. Open the project in Unity (recommended version: `Unity 2021.x` or later).
@@ -73,8 +70,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact 📬
 
 For questions or collaboration opportunities, feel free to reach out:
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: neerajstha17@gmail.com
 
 ---
 
